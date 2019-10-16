@@ -1,5 +1,5 @@
 # mini-project-2
-#Robot Operating System
+# Robot Operating System
 ### Jingyi Li
 
 ## Introduction
